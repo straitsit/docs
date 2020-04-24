@@ -13,7 +13,7 @@ open localhost:3000
 
 ## Build local static files and serve
 
-This executes a `next build` and `next export`, and copies the generated static files to the root directory and to the `gogjango.github.io` directory.
+This executes a `next build` and `next export`, and copies the generated static files to the root directory and to the `straitsit.github.io` directory.
 
 We then use `serve` to serve our static files locally, so we can manually verify that our static files are correctly generated and can expect it to work fine when we actually deploy it
 
