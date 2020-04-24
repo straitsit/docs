@@ -1,1 +1,0 @@
-# StraitsIT product documentation
